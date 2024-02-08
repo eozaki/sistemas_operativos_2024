@@ -2,4 +2,4 @@
 
 2 - a - cat /etc/passwd | grep "Maria" > nomes.txt
     b - cat /etc/passwd | grep "Pedro" >> nomes.txt
-	c - cat nomes.txt | wc -> o numero de novas linhas é o número de alunos listados no ficheiro (38 no nosso caso)
+	  c - cat nomes.txt | wc -l -> o numero de novas linhas é o número de alunos listados no ficheiro (38 no nosso caso)
