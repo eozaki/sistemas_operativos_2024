@@ -1,0 +1,20 @@
+/* Exercicios */
+
+/* Tabela de comandos */
+ - mudar de diretório: cd <diretório>
+ - criar um diretório: mkdir <novo diretorio>
+ - mostrar o conteúdo de um ficheiro: cat <ficheiro>
+ - copiar um ficheiro: cp <ficheiro de origem> <destino da cópia>
+ - mudar o nome a um ficheiro: mv <ficheiro de origem> <ficheiro com novo nome ou diretório>
+ - criar um link para um ficheiro: ln <ficheiro de origem> <endereço do link a criar>
+ - mudar as permissoes de um ficheiro: chmod <permissoes a serem dadas ao ficheiro no formato xyz> <nome do ficheiro>
+
+/* Comandos Introdutórios */
+/* Experimente... */
+ - pwd : diz qual é o diretório atual
+ - passwd : muda a senha do usuário atual
+ - date : diz qual é a data atual
+ - cal : mostra um calendário do mês corrente na data do sistema
+ - w : exibe quais usuários estão logados e que tarefa estão a executar 
+ - top : exibe quais são os processos a serem executados
+ - stat : exibe o estado de um ficheiro ou do sistema de ficheiros
