@@ -1,0 +1,38 @@
+a82879:x:1049:1006:Antonio Maria Caldeira Rebelo Delgado Bento,,,:/home/a82879:/bin/bash
+a92442:x:1056:1006:Bernardo Maria de Oliveira Moura Gomes,,,:/home/a92442:/bin/bash
+a93957:x:1217:1006:Jose Maria Cardiga Henriques,,,:/home/a93957:/bin/bash
+a68691:x:1248:1006:Maria Beatriz Romao Demetrio,,,:/home/a68691:/bin/bash
+a87282:x:1256:1006:Mariana Lobato Goncalves,,,:/home/a87282:/bin/bash
+a82301:x:1447:1006:Maria Joao da Silva Raimundo,,,:/home/a82301:/bin/bash
+a93928:x:1508:1006:Jose Maria Azenha de Jesus Silva,,,:/home/a93928:/bin/bash
+a104647:x:1142:1006:Henrique Maria Domingos,,,:/home/a104647:/bin/bash
+a104637:x:1386:1006:Maria Ines Oliveira,,,:/home/a104637:/bin/bash
+a105446:x:1453:1006:Afonso Maria Ramos,,,:/home/a105446:/bin/bash
+a105415:x:1471:1006:Salvador Maria Ribeiro,,,:/home/a105415:/bin/bash
+a105423:x:1554:1006:Salvador Maria Sousa,,,:/home/a105423:/bin/bash
+a111270:x:1343:1006:Maria Francisca Henrique Peixoto,,,:/home/a111270:/bin/bash
+a111348:x:1370:1006:Maria Beatriz Franco Rafael Cruz,,,:/home/a111348:/bin/bash
+a111561:x:1460:1006:Tiago Maria Batista Bensusan,,,:/home/a111561:/bin/bash
+a122650:x:1016:1006:Miguel Maria Romao Pancada,,,:/home/a122650:/bin/bash
+a122660:x:1027:1006:Mariana Goncalves Pereira Passos,,,:/home/a122660:/bin/bash
+a122466:x:1034:1006:Jose Maria Belo de Morais Sequeira Remedios,,,:/home/a122466:/bin/bash
+a123014:x:1232:1006:Joao Maria Pereira da Costa Mora Alves,,,:/home/a123014:/bin/bash
+a122644:x:1240:1006:Francisco Maria Copio Mauricio Moura Mendes,,,:/home/a122644:/bin/bash
+a122474:x:1255:1006:Maria do Carmo Santos Calcao Tavares Morais,,,:/home/a122474:/bin/bash
+a122468:x:1259:1006:Diogo Maria Alexandrino Fernandes Durao Barroso,,,:/home/a122468:/bin/bash
+a124425:x:1273:1006:Bernardo Maria Gomes Pereira Serra Alegra,,,:/home/a124425:/bin/bash
+a122643:x:1275:1006:Mariana Antunes Apura,,,:/home/a122643:/bin/bash
+a122601:x:1302:1006:Maria Benedita de Castro e Pena de Senna Nunes,,,:/home/a122601:/bin/bash
+a122705:x:1307:1006:Constanca Maria de Oliveira Beauvalet Cotrim Ferreira,,,:/home/a122705:/bin/bash
+a122974:x:1332:1006:Antonio Maria Menezes de Matos Lopes,,,:/home/a122974:/bin/bash
+a122630:x:1347:1006:Mariana Lopes Garrido Carreira,,,:/home/a122630:/bin/bash
+a122658:x:1364:1006:Joana Maria Tomada Mafra,,,:/home/a122658:/bin/bash
+a122975:x:1367:1006:Manuel Maria Silveira de Sa Duarte Ferreira,,,:/home/a122975:/bin/bash
+a123295:x:1372:1006:Jose Maria Sobreiro Fernandes Martins,,,:/home/a123295:/bin/bash
+a122983:x:1380:1006:Mariana Isabel dos Reis Fonseca,,,:/home/a122983:/bin/bash
+a123284:x:1401:1006:Maria Martins Neu Seelow dos Santos,,,:/home/a123284:/bin/bash
+a123308:x:1488:1006:Antonio Maria Rodrigues Martins e Fragoso de Sousa,,,:/home/a123308:/bin/bash
+a124426:x:1504:1006:Maria Eduarda Neves Leite,,,:/home/a124426:/bin/bash
+a122971:x:1553:1006:Joao Maria Cabral Burguete Pinto Goncalves,,,:/home/a122971:/bin/bash
+a122477:x:1577:1006:Maria Pereira Frade,,,:/home/a122477:/bin/bash
+a123748:x:1582:1006:Maria Joao Cotrim Santos,,,:/home/a123748:/bin/bash
