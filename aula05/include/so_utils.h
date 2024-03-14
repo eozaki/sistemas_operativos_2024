@@ -146,7 +146,7 @@ char __so_utils_temporary_buffer__[__SO_UTILS_TEMPORARY_BUFFER_SIZE__];
  *     Se a variável de ambiente SO_HIDE_DEBUG estiver definida, não mostra mensagens de debug
  ******************************************************************************/
 
-#include "/home/so/utils/include/so_define_colours.h"
+#include "so_define_colours.h"
 // #define SO_HIDE_COLOURS  // Uncomment this line to hide all colours
 // #define SO_HIDE_DEBUG    // Uncomment this line to hide all @DEBUG statements
 
